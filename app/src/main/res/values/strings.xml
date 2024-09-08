@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temas</string>
+    <!-- TextView Home -->
+    <string name="text_title">ColorMode</string>
+    <string name="text_about">O ColorMode é um aplicativo que facilita a\nimplementação de temas claro e escuro em projetos mobile, permitindo o uso de uma paleta de cores personalizada e padronizada, sem depender das configurações do sistema operacional. Ideal para desenvolvedores que buscam manter a identidade visual da empresa de forma consistente em qualquer dispositivo.</string>
+        <string name="text_light">No modo claro estou utilizando o Theme.AppCompat.DayNight, este tema faz\nparte da biblioteca AppCompat, que oferece suporte para versões mais antigas do Android.
+                              Indicado para apps que precisam ser compatíveis com versões anteriores do Android, oferecendo um comportamento consistente em dispositivos mais antigos.</string>
+    <string name="text_dark">No modo escuro estou utilizando o\nTheme.Material3.DayNight.NoActionBar,\neste tema é baseado no Material Design 3,\na nova geração de temas para o Android,\ncom foco em personalização, cores dinâmicas\ne interface moderna.</string>
+</resources>

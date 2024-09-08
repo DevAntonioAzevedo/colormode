@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Temas" parent="Theme.Material3.DayNight.NoActionBar"> <!-- AppCompat irá usar a compatibilidade com o SO do celular -->
+        <!-- Status Bar Night -->
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+    <!-- Background Default Dark -->
+    <style name="BACKGROUND">
+        <item name="android:background">@color/dark_gray</item>
+    </style>
+    <!-- TextView Default Dark -->
+    <style name="TEXTCOLOR">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <!-- Button Default Dark -->
+    <style name="FLOATING_ACTION_BUTTON">
+        <item name="android:backgroundTint">@color/purple_200</item>
+        <item name="android:tint">@color/black</item>
+    </style>
+</resources>
